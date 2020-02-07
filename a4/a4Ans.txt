@@ -1,0 +1,29 @@
+**I USED T AND F TO REPRESENT TRUTH AND FALSE VALUES INSTEAD OF BINARY -- PLEASE DO NOT DOCK MARKS FOR THIS!**********
+
+
+1.
+A) 20 < 50 || 9 > 99 && 45 >=45
+=  T || F && 45 >=45
+= T || F and T
+= T || F
+= True
+
+B) 6<=9 &&  (21==(11+11) || 2<2)
+=  6<=9 &&  (21 == 22 || 2<2)
+=  6<=9 && (F  || F)
+=  T && (F || F)
+= T && F
+= False
+
+C) 10<5 &&  5<2
+= F and F
+= False
+
+D) 10 < 5 <2
+=  TRUE
+
+
+
+
+
+

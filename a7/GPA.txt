@@ -1,0 +1,34 @@
+Wendy Osborn
+3.3
+Jackie Rice
+3.7
+Betty A. Johnson
+1.0
+Howard Cheng
+2.6
+John Q. Public
+3.9
+k.d. lang
+4.0
+Asif Nashiry
+0.4
+Becky Jones
+1.7
+Craig Cooper
+3.2
+Chris Spearman
+0.4
+Andy Hakin
+2.2
+Jeff Coffman
+2.9
+Ryan Parker
+4.0
+John Doe
+0.4
+Jane Doe
+0.5
+Peash Saha
+3.8
+Mike Mahon
+3.0

@@ -1,0 +1,7 @@
+Name:  Wendy Osborn
+
+              A1    A2    A3    A4    A5    A6    A7    ATotal   Midterm     Final
+      Mark  17.0  36.0  40.0  40.0  40.0  40.0  40.0     253.0      50.0      70.0
+    Scaled   1.7   1.8   3.0   4.0   4.0   4.0   3.3      21.8      15.8      43.8
+
+Total Course Mark (out of 100):  81.4

@@ -1,0 +1,21 @@
+//Question #1
+//Purpose: Evalute arithmetic expressions the way a C++ program would evaluate them
+//
+
+a) 19/2
+= 9
+
+b) static_cast<double>(19)/2
+= 9.5
+
+c) 6.6*3-21.3+34/6
+= 19.8 - 21.3 + 5.67
+= 19.8 - 26.9
+= -7.16
+
+d) 4+26/(36.5(7+3.5))
+= 4 + 26 / ((3.6)(10.5))
+= 4 + 26 / 37.8
+= 4 + 0.68
+= 4.68
+
